@@ -1,0 +1,7 @@
+take ip
+calc wtd sum
+activation func
+make pred
+find loss
+find cost
+if cost> optimize weights using optimization algos
